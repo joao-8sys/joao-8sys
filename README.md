@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey, I'm João 👋
+<p>
+I'm full stack jr software development at 8SYS.<br>
 
-<!--
-**joao-8sys/joao-8sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Currently working with full stack software development at 8SYS<br>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/joao-8sys">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-8sys&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopnk&layout=compact&langs_count=7&theme=nightowl"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
